@@ -1,0 +1,28 @@
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe.config
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.exe
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\......son\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe.config
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\......son\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.exe
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\......son\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\......son\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\......son\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\......son\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\Administrator\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe.config
+C:\Users\Administrator\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe
+C:\Users\Administrator\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\Administrator\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.exe
+C:\Users\Administrator\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\Harun\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe.config
+C:\Users\Harun\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe
+C:\Users\Harun\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\Harun\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.exe
+C:\Users\Harun\Desktop\YemekSepetiUygulamasi\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\emre\Desktop\YemekSepeti\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe.config
+C:\Users\emre\Desktop\YemekSepeti\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.exe
+C:\Users\emre\Desktop\YemekSepeti\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\emre\Desktop\YemekSepeti\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.exe
+C:\Users\emre\Desktop\YemekSepeti\YemekSepetiUygulamasi\bin\Debug\YemekSepetiUygulamasi.pdb
+C:\Users\emre\Desktop\YemekSepeti\YemekSepetiUygulamasi\obj\Debug\YemekSepetiUygulamasi.csprojResolveAssemblyReference.cache
